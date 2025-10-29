@@ -37,7 +37,8 @@ O projeto serviu como um **exercício de lógica, estruturação de layout e uso
 
 ### 📸 Pré-visualização
 
-*(Adiciona aqui uma imagem ou GIF do jogo se quiseres mostrar o visual — podes usar `![screenshot](link-da-imagem.png)`)*
+*<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/8494f900-1307-42a5-be52-157691c726b5" />
+*
 
 ---
 
@@ -87,7 +88,8 @@ The project served as an **exercise in logic, layout structuring, and pure HTML 
 
 ### 📸 Preview
 
-*(Add an image or GIF of the game here — e.g., `![screenshot](image-link.png)`)*
+*<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/0baa4f89-53f1-4e20-a807-e67db4f3209f" />
+*
 
 ---
 
