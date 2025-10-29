@@ -1,3 +1,6 @@
+**Idioma:**  
+🇦🇴 [Português](#-não-te-irrites--versão-angola) | 🇬🇧 [English](#-dont-get-angry--angola-edition-english)
+
 
 ## 🎲 Não te Irrites – Versão Angola
 
